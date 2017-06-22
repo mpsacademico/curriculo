@@ -5,7 +5,7 @@
 | pythonizacao           |    DEV   |    X   |     |      |         |     MPS    |     X    |
 | mnotas                 |    DEV   |    X   |     |      |         |     MPS    |     X    |
 | mtotem                 |    DEV   |    X   |  X  |      |         |     MPS    |          |
-| pna                    | v1.0.0.0 |    X   |     |      |         |     MPS    |     X    |
+| pna                    | v1.0.0.0 |    X   |  X  |      |         |     MPS    |     X    |
 | mcapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
 | ptapp                  |    DEV   |        |     |   X  |         |     MPS    |     X    |
 | curriculo              |    DEV   |    X   |     |      |         |     MPS    |          |

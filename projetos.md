@@ -1,4 +1,14 @@
 # Projetos no GitHub
+
+- projeto
+- descrição
+- licença
+- readme
+- docs
+- wiki
+- data de criação
+- autoria
+
 ```
 mtotem
 MTotem é um sistema para exibição de conteúdos em totens digitais

@@ -1,21 +1,21 @@
 # Projetos no GitHub
 
-| Projeto                | Descrição                                                                            | Criação | Versão | Readme | Docs | Wiki | Licença | Autoria | Externos |
-|------------------------|--------------------------------------------------------------------------------------|---------|--------|--------|------|------|---------|---------|----------|
-| mtotem                 | MTotem é um sistema para exibição de conteúdos em totens digitais                    |         |        |        |      |      |         |         |          |
-| pythonizacao           | Apontamentos e exercícios relacionados a linguagem Python                            |         |        |        |      |      |         |         |          |
-| maspt                  | MASPT: uma proposta de middleware entre importantes sistemas                         |         |        |        |      |      |         |         |          |
-| codificacao            | Exercícios práticos em codificação e modelagem de sistemas                           |         |        |        |      |      |         |         |          |
-| mcapp                  | Aplicativo híbrido mobile para exibição de conteúdos multimídia online               |         |        |        |      |      |         |         |          |
-| curriculo              | Bem-vindo ao currículo de Marcos Silva                                               |         |        |        |      |      |         |         |          |
-| ptapp                  | Aplicativo híbrido mobile para previsão do tempo                                     |         |        |        |      |      |         |         |          |
-| mnotas                 | Bloco de notas virtual para assuntos diversos                                        |         |        |        |      |      |         |         |          |
-| hbws-stats             | Protótipo de cliente javascript para exibição de estatísticas de requisições do HBWS |         |        |        |      |      |         |         |          |
-| hbws                   | Hummm Burgueria Web Service: proposta de sistema para uma rede de lanchonetes        |         |        |        |      |      |         |         |          |
-| ptflaticon             | Registros do projeto de criação de ícones flat de condições de tempo                 |         |        |        |      |      |         |         |          |
-| lobrasil               | Protótipo de API para disponibilização de informações sobre localidades brasileiras  |         |        |        |      |      |         |         |          |
-| sigecomv-testes-junit  | Análise de estratégias para testes de unidade do projeto SIGECOMV                    |         |        |        |      |      |         |         |          |
-| pna                    | Previsão em Nova Aba é uma bela página para visualização de previsão do tempo        |         |        |        |      |      |         |         |          |
-| triz                   | Ferramenta case ágil para pequenas e médias equipes                                  |         |        |        |      |      |         |         |          |
-| mpsacademico.github.io | Uma página para os meus projetos de análise e desenvolvimento!                       |         |        |        |      |      |         |         |          |
-| asas                   | Treinamento e aprendizagem em Git e GitHub                                           |         |        |        |      |      |         |         |          |
+| Projeto                |  Versão  | Readme | Doc | Wiki | Licença |   Autoria  | Externos |
+|------------------------|:--------:|:------:|:---:|:----:|:-------:|:----------:|:--------:|
+| pythonizacao           |    DEV   |    X   |     |      |         |     MPS    |     X    |
+| mnotas                 |    DEV   |    X   |     |      |         |     MPS    |     X    |
+| mtotem                 |    DEV   |    X   |  X  |      |         |     MPS    |          |
+| pna                    | v1.0.0.0 |    X   |     |      |         |     MPS    |     X    |
+| mcapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
+| ptapp                  |    DEV   |        |     |   X  |         |     MPS    |     X    |
+| curriculo              |    DEV   |    X   |     |      |         |     MPS    |          |
+| mpsacademico.github.io |    DEV   |        |     |      |         |     MPS    |     X    |
+| codificacao            |          |        |     |      |         |     MPS    |     X    |
+| asas                   |          |        |     |      |         |     MPS    |          |
+| triz                   | v1.0.0.0 |    X   |     |      |         |     MPS    |     X    |
+| ptflaticon             |          |    X   |     |      |         |     MPS    |     X    |
+| lobrasil               |   PROT   |    X   |     |      |         |     MPS    |     X    |
+| hbws                   |   PROT   |    X   |     |      |         | MPS et al. |     X    |
+| hbws-stats             |   PROT   |    X   |  X  |      |         | MPS et al. |     X    |
+| maspt                  |   PROT   |        |  X  |      |         |     MPS    |     X    |
+| sigecomv-testes-junit  |   DEMO   |    X   |  X  |      |         | MPS et al. |          |

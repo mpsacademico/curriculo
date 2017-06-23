@@ -1,5 +1,8 @@
 # Projetos no GitHub - Marcos Silva
 
+- [Descrição de Projetos](https://github.com/mpsacademico/curriculo/blob/master/PROJETOS.md#descrição-de-projetos)
+- [Quadro de Informações](https://github.com/mpsacademico/curriculo/blob/master/PROJETOS.md#quadro-de-informações)
+
 ## Descrição de Projetos
 
 | Projeto                | Descrição                                                                            |   Criação  |

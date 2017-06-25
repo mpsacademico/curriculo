@@ -39,7 +39,7 @@
 | mpsacademico.github.io |    DEV   |        |     |      |         |     MPS    |     X    |
 | codificacao            |          |        |     |      |         |     MPS    |     X    |
 | asas                   |          |        |     |      |         |     MPS    |          |
-| triz                   | v1.0.0.0 |    X   |     |      |         |     MPS    |     X    |
+| triz                   | v1.0.0.0 |    X   |  X  |      |         |     MPS    |     X    |
 | ptflaticon             |          |    X   |     |      |         |     MPS    |     X    |
 | lobrasil               |   PROT   |    X   |     |      |         |     MPS    |     X    |
 | hbws                   |   PROT   |    X   |     |      |         | MPS et al. |     X    |

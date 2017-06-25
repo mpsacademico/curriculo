@@ -10,7 +10,7 @@
 | pythonizacao           | Apontamentos e exercícios relacionados a linguagem Python                            | 11/05/2017 |
 | mnotas                 | Bloco de notas virtual para assuntos diversos                                        | 24/04/2017 |
 | mtotem                 | MTotem é um sistema para exibição de conteúdos em totens digitais                    | 13/05/2017 |
-| pna                    | Previsão em Nova Aba é uma bela página para visualização de previsão do tempo        | 20/02/2017 |
+| pna                    | Uma bela página para visualização de Previsão do Tempo                               | 20/02/2017 |
 | mcapp                  | Aplicativo híbrido mobile para exibição de conteúdos multimídia online               | 09/01/2017 |
 | ptapp                  | Aplicativo híbrido mobile para previsão do tempo                                     | 08/06/2016 |
 | curriculo              | Bem-vindo ao currículo de Marcos Silva                                               | 26/05/2017 |

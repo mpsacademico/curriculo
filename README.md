@@ -20,3 +20,10 @@ Cisco Systems - Treinamentos e certificações, CISCO, Brasil
 **2013 - 2013**  
 General English Intensive (Carga horária: 100h)  
 Intrax - Cultural Exchange and Educational Programs, INTRAX, Estados Unidos
+
+## Idiomas
+
+- Inglês - Intermediário
+- Espanhol - Intermediário
+- Alemão - Iniciante
+- Francês - Iniciante

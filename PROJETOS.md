@@ -13,6 +13,7 @@
 | pna                    | Uma bela página para visualização de Previsão do Tempo                               | 20/02/2017 |
 | mcapp                  | Aplicativo híbrido mobile para exibição de conteúdos multimídia online               | 09/01/2017 |
 | ptapp                  | Aplicativo híbrido mobile para previsão do tempo                                     | 08/06/2016 |
+| mpsparklot	         | Gestor de estacionamentos em Java do início ao fim	                                | 26/06/2017 |
 | curriculo              | Bem-vindo ao currículo de Marcos Silva                                               | 26/05/2017 |
 | mpsacademico.github.io | Portfólio online de projetos de Marcos Silva                                         | 03/06/2016 |
 | codificacao            | Exercícios práticos em codificação e modelagem de sistemas                           | 26/02/2017 |
@@ -35,6 +36,7 @@
 | pna                    | v1.0.0.0 |    X   |  X  |      |         |     MPS    |     X    |
 | mcapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
 | ptapp                  |    DEV   |        |     |   X  |         |     MPS    |     X    |
+| mpsparklot	         |    DEV   |    X	 |	   |   X  |         |     MPS    |          |
 | curriculo              |    DEV   |    X   |     |      |         |     MPS    |          |
 | mpsacademico.github.io |    DEV   |        |     |      |         |     MPS    |     X    |
 | codificacao            |          |        |     |      |         |     MPS    |     X    |

@@ -35,7 +35,7 @@
 | mtotem                 |    DEV   |    X   |  X  |      |         |     MPS    |          |
 | pna                    | v1.0.0.0 |    X   |  X  |      |         |     MPS    |     X    |
 | mcapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
-| ptapp                  |    DEV   |        |     |   X  |         |     MPS    |     X    |
+| ptapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
 | mpsparklot	         |    DEV   |    X	 |	   |   X  |         |     MPS    |          |
 | curriculo              |    DEV   |    X   |     |      |         |     MPS    |          |
 | mpsacademico.github.io |    DEV   |        |     |      |         |     MPS    |     X    |

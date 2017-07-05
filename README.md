@@ -1,5 +1,8 @@
 # Marcos Silva
 
+Analista de Sistemas  
+Bolsista de Pesquisa Científica
+
 ## Formação Acadêmica
 
 **2014 - 2016**  

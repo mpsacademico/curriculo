@@ -14,6 +14,7 @@
 | mcapp                  | Aplicativo híbrido mobile para exibição de conteúdos multimídia online               | 09/01/2017 |
 | ptapp                  | Aplicativo híbrido mobile para previsão do tempo                                     | 08/06/2016 |
 | mpsparklot	         | Gestor de estacionamentos em Java do início ao fim	                                | 26/06/2017 |
+| elk                    | Apontamentos e exemplos relacionados a plataforma Elastic Stack                      | 07/07/2017 |
 | curriculo              | Bem-vindo ao currículo de Marcos Silva                                               | 26/05/2017 |
 | mpsacademico.github.io | Portfólio online de projetos de Marcos Silva                                         | 03/06/2016 |
 | codificacao            | Exercícios práticos em codificação e modelagem de sistemas                           | 26/02/2017 |
@@ -37,6 +38,7 @@
 | mcapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
 | ptapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
 | mpsparklot	         |    DEV   |    X	 |	   |   X  |         |     MPS    |          |
+| elk       	         |    DEV   |    X	 |	   |      |   MIT   |     MPS    |          |
 | curriculo              |    DEV   |    X   |     |      |         |     MPS    |          |
 | mpsacademico.github.io |    DEV   |        |     |      |         |     MPS    |     X    |
 | codificacao            |          |        |     |      |         |     MPS    |     X    |

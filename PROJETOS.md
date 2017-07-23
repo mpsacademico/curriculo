@@ -17,6 +17,7 @@
 | elk                    | Apontamentos e exemplos relacionados a plataforma Elastic Stack                      | 07/07/2017 |
 | fakesensor             | FKS é uma boa maneira de simular um sensor que produz arquivos de dados              | 12/07/2017 |
 | pontilhar              | Aplicativo web para criação de desenhos com pontos coloridos                         | 13/07/2017 |
+| xpromo                 | Uma rede social de compras coletivas. Explore seu mundo de interesses!               | 16/07/2017 |
 | curriculo              | Bem-vindo ao currículo de Marcos Silva                                               | 26/05/2017 |
 | mpsacademico.github.io | Portfólio online de projetos de Marcos Silva                                         | 03/06/2016 |
 | codificacao            | Exercícios práticos em codificação e modelagem de sistemas                           | 26/02/2017 |
@@ -43,6 +44,7 @@
 | elk       	         |    DEV   |    X	 |	   |      |   MIT   |     MPS    |     X    |
 | fakesensor             |    DEV   |    X   |     |      |         |     MPS    |          |
 | pontilhar              |    DEV   |    X   |     |      |         |     MPS    |          |
+| xpromo                 |    DEV   |    X   |     |      |         | MPS et al. |     X    |
 | curriculo              |    DEV   |    X   |     |      |         |     MPS    |          |
 | mpsacademico.github.io |    DEV   |        |     |      |         |     MPS    |     X    |
 | codificacao            |          |        |     |      |         |     MPS    |     X    |

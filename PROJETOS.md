@@ -25,6 +25,7 @@
 | triz                   | Ferramenta case ágil para pequenas e médias equipes                                  | 29/07/2016 |
 | ptflaticon             | Registros do projeto de criação de ícones flat de condições de tempo                 | 08/03/2017 |
 | lobrasil               | Protótipo de API para disponibilização de informações sobre localidades brasileiras  | 14/03/2017 |
+| procorte               | Sistema com algoritmos avançados para otimização de problemas de corte               | 24/07/2017 |
 | hbws                   | Hummm Burgueria Web Service: proposta de sistema para uma rede de lanchonetes        | 28/05/2016 |
 | hbws-stats             | Protótipo de cliente javascript para exibição de estatísticas de requisições do HBWS | 04/06/2016 |
 | maspt                  | MASPT: uma proposta de middleware entre importantes sistemas                         | 21/02/2017 |
@@ -52,6 +53,7 @@
 | triz                   | v1.0.0.0 |    X   |  X  |      |         |     MPS    |     X    |
 | ptflaticon             |          |    X   |     |      |         |     MPS    |     X    |
 | lobrasil               |   PROT   |    X   |     |      |         |     MPS    |     X    |
+| procorte               |   PROT   |    X   |     |      |         | MPS et al. |          |
 | hbws                   |   PROT   |    X   |     |      |         | MPS et al. |     X    |
 | hbws-stats             |   PROT   |    X   |  X  |      |         | MPS et al. |     X    |
 | maspt                  |   PROT   |        |  X  |      |         |     MPS    |     X    |

@@ -13,7 +13,7 @@
 | pna                    | Uma bela página para visualização de Previsão do Tempo                               | 20/02/2017 |
 | mcapp                  | Aplicativo híbrido mobile para exibição de conteúdos multimídia online               | 09/01/2017 |
 | ptapp                  | Aplicativo híbrido mobile para previsão do tempo                                     | 08/06/2016 |
-| mpsparklot	         | Gestor de estacionamentos em Java do início ao fim	                                | 26/06/2017 |
+| mpsparklot	           | Gestor de estacionamentos em Java do início ao fim	                                  | 26/06/2017 |
 | elk                    | Apontamentos e exemplos relacionados a plataforma Elastic Stack                      | 07/07/2017 |
 | fakesensor             | FKS é uma boa maneira de simular um sensor que produz arquivos de dados              | 12/07/2017 |
 | pontilhar              | Aplicativo web para criação de desenhos com pontos coloridos                         | 13/07/2017 |
@@ -26,6 +26,7 @@
 | ptflaticon             | Registros do projeto de criação de ícones flat de condições de tempo                 | 08/03/2017 |
 | lobrasil               | Protótipo de API para disponibilização de informações sobre localidades brasileiras  | 14/03/2017 |
 | procorte               | Sistema com algoritmos avançados para otimização de problemas de corte               | 24/07/2017 |
+| fullsearch             | Um sistema web em Flask para testes de buscas inteligentes com Elasticsearch!        | 15/12/2017 |
 | hbws                   | Hummm Burgueria Web Service: proposta de sistema para uma rede de lanchonetes        | 28/05/2016 |
 | hbws-stats             | Protótipo de cliente javascript para exibição de estatísticas de requisições do HBWS | 04/06/2016 |
 | maspt                  | MASPT: uma proposta de middleware entre importantes sistemas                         | 21/02/2017 |
@@ -41,8 +42,8 @@
 | pna                    | v1.0.0.0 |    X   |  X  |      |         |     MPS    |     X    |
 | mcapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
 | ptapp                  |    DEV   |        |     |      |         |     MPS    |     X    |
-| mpsparklot	         |    DEV   |    X	 |	   |   X  |         |     MPS    |          |
-| elk       	         |    DEV   |    X	 |	   |      |   MIT   |     MPS    |     X    |
+| mpsparklot	           |    DEV   |    X	 |	   |   X  |         |     MPS    |          |
+| elk       	           |    DEV   |    X	 |	   |      |   MIT   |     MPS    |     X    |
 | fakesensor             |    DEV   |    X   |     |      |         |     MPS    |          |
 | pontilhar              |    DEV   |    X   |     |      |         |     MPS    |          |
 | xpromo                 |    DEV   |    X   |     |      |         | MPS et al. |     X    |
@@ -54,6 +55,7 @@
 | ptflaticon             |          |    X   |     |      |         |     MPS    |     X    |
 | lobrasil               |   PROT   |    X   |     |      |         |     MPS    |     X    |
 | procorte               |   PROT   |    X   |     |      |         | MPS et al. |          |
+| fullsearch             |   PROT   |    X   |     |      |         |     MPS    |          |
 | hbws                   |   PROT   |    X   |     |      |         | MPS et al. |     X    |
 | hbws-stats             |   PROT   |    X   |  X  |      |         | MPS et al. |     X    |
 | maspt                  |   PROT   |        |  X  |      |         |     MPS    |     X    |

@@ -29,7 +29,7 @@
 | fullsearch             | Um sistema web em Flask para testes de buscas inteligentes com Elasticsearch!        | 15/12/2017 |
 | hbws                   | Hummm Burgueria Web Service: proposta de sistema para uma rede de lanchonetes        | 28/05/2016 |
 | hbws-stats             | Protótipo de cliente javascript para exibição de estatísticas de requisições do HBWS | 04/06/2016 |
-| maspt                  | MASPT: uma proposta de middleware entre importantes sistemas                         | 21/02/2017 |
+| maspt                  | Uma proposta de middleware entre importantes sistemas                                | 21/02/2017 |
 | sigecomv-testes-junit  | Análise de estratégias para testes de unidade do projeto SIGECOMV                    | 12/06/2016 |
 
 ## Quadro de Informações
